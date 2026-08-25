@@ -1,0 +1,13 @@
+data/raw/
+data/processed/
+*.pcap
+*.pcapng
+victim-dashboard/pcap_spool/
+victim-dashboard/pcap_inbox/
+victim-dashboard/pcap_done/
+victim-dashboard/pcap_error/
+victim-dashboard/flow_outputs/
+*.pth
+*.pkl
+__pycache__/
+.venv/
